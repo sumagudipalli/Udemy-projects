@@ -1,59 +1,66 @@
-<!DocTYPE html>
-<html>
-    <head>
-        <title>My Resume</title>
-    </head>
-    <body>
-        <h1> James Smiley</h1>
-        <img src="https://jamesgilberdphotography.weebly.com/uploads/1/3/6/5/13650410/emma-not-smiling-35x45_1_orig.jpg" width="200px">
-        <h1>Summary</h1>
-         <p>I am a hardworking and dedicated individual with experience in customer service and administration.</p><hr>
-        <h2>Education</h2>
-        <ul>
-        <li>Bachelor of Arts,Business Administration-University of XYZ(2010-2014)</li>
-        </ul><hr>
-         <h2>Work Experience</h2>
-        <ul>
-          <li>
-            <strong>Customer Service Representative - ABc Inc.</strong><br>
+<!DOCTYPE html>
+<html lang="en">
 
-            June 2014 - May 2018
-        <ul> 
-            <li>Answered customer inquiries via phone and email</li>
-            <li>Resolved customer complaints and issues</li>
-            <li>Maintained customer record and updated account information</li>
-        </ul>  
-       </li> 
-       <li>
-           <strong>Administrative Assistant-XYZ Corp.</strong><br>
+<head>
+  <meta charset="UTF-8">
+  <title>Resume</title>
+</head>
 
-           June 2018 - Present
+<body>
+  <h1>G.Suma</h1>
+  <img src="\capstone project-1\WhatsApp Image 2025-03-02 at 22.35.41_df214d7e.jpg" alt="profile image of Jane Doe" height="100" width="100">
 
-        <ul>
-            <li>Assisted with scheduling appointments and meetings</li>
-            <li>Managed incoming and outgoing mail and correspondence</li>
-            <li>Prepared reports and presentations using Microsoft Office Suite</li>
-        </ul>
-       </li>
-    </ul><hr>
-   <h2>Skills</h2>
-   <ul>
-    <li>Customer service:<span class ="stars">⭐⭐⭐⭐⭐</span></li>
-    <li>Microsoft Office Suite:<span class ="stars">⭐⭐⭐</span></li>
-    <li>Organizational skills:<span class="stars">⭐⭐⭐⭐</span></li>
-   </ul><hr>
-   <h2>Awards and Certifications</h2>
-   <ul>
-    <li>Employee of the Month - ABC Inc(August 2016)
+  <h2>Summary</h2>
+  <p>I am a hardworking and self motivated person with the experience in data entry.</p>
+  <hr />
+  <h2>Education</h2>
+  <ul>
+    <li>Bachelor of Technology- Vignan's Lara Institute of Technology and Science.(2023-2026)</li>
+  </ul>
+  <hr />
+  <h2>Work Experience</h2>
+  <ul>
+    <li>
+      <h3>Data Entry Operator- Apex Solutions Limited.</h3>
+      <p>July 2022 - Jan 2023</p>
+      <ul>
+        <li>Placing the tags between information</li>
+        <li>Resolved errors present in the information</li>
+        <li>Maintained the information present in the files</li>
+      </ul>
     </li>
-   </ul><hr>
-   <h2>Other</h2>
-   <u1>
-    <li><a href="#">My Hobbies</a></li>
-    <li><a href="#">Contact Me</a></li>
-   </u1>
-   <footer>
-        © James Smiley. All rights reserved.
-   </footer>
-    </body>
+    <li>
+      <h3>Webdevelopment Intern - Prodigy Infotech.</h3>
+      <p>February 2025- 28th February </p>
+      <ul>
+        <li>Learning Html,Css and Javascript by this internship </li>
+        <li>Managed five tasks with in a end of internship</li>
+        <li>Prepared posts and uploading videos in Linked in</li>
+      </ul>
+    </li>
+  </ul>
+  <hr />
+  <h2>Skills</h2>
+  <ul>
+    <li>Java: ⭐️⭐️⭐️⭐️</li>
+    <li>Html: ⭐️⭐️⭐️</li>
+    <li>Communication: ⭐️⭐️⭐️⭐️</li>
+  </ul>
+  <hr />
+  <h2>Awards and Certifications</h2>
+  <ul>
+    <li>Intern-Apex Solutions Limited</li>
+    <li>Webdevelopment Intern-Prodigy Infotech</li>
+  </ul>
+  <hr />
+  <h2>Other</h2>
+  <ul>
+    <li><a href=".\hobbies.html">My Hobbies</a></li>
+    <li><a href=".\contact.html">Contact Me</a></li>
+  </ul>
+  <footer>
+    <p>© G.Suma. All rights reserved.</p>
+  </footer>
+</body>
+
 </html>
